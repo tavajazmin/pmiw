@@ -10,7 +10,7 @@ let orden = 0; // Variable para almacenar el índice de la imagen actual
 const boton = { x: 10, y: 10, width: 100, height: 40 };
 
 function preload() {
-  for (let i = 0; i < 8; i++) {
+  for (let i = 0; i < 9; i++) {
     imagenes[i] = loadImage("data/foto" + i + ".png"); // Cargar imágenes en el arreglo
   }
   
