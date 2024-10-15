@@ -27,8 +27,10 @@ function draw() {
   background(0);
   cargarImagen(imagenes[orden], 0, 0, 640, 480); // Cargar la imagen actual
   dibujarBoton(); // Dibuja el botón
+if(orden > 0){  
+ cuadroTexto(0,370,640,200); 
+}
   
- // cuadroTexto(0,370,640,200); cuadro para poner el texto
 }
 
 // Función para redimensionar todas las imágenes
@@ -59,6 +61,7 @@ function mousePressed() {
   }
 }
 
-//function cuadroTexto(x,y,al,an){
- //rect(x,y,al,an);
+function cuadroTexto(x,y,al,an){
+rect(x,y,al,an);
+}
   
