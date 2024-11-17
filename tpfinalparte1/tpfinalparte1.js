@@ -1,6 +1,7 @@
 //Jazmin Tava
 //Bruno Diaz
-
+//comision 1
+//https://youtu.be/Lsh-ahCqSZE
 
 
 let fotos = [];
