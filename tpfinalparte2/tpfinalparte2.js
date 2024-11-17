@@ -1,7 +1,7 @@
 //jazmin Tava
 //Bruno diaz
 //Comision 1
-
+// Jaz: estoy teniendo problemas con la compu y el obs me trabo todas las grabaciones
 
 //entregamos el juego principal, nos faltaria las imagenes, sonido y la pantallas de inicio
 //se mueve con las flechas del teclado
