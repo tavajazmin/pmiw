@@ -1,4 +1,13 @@
- let juego;
+//jazmin Tava
+//Bruno diaz
+//Comision 1
+
+
+//entregamos el juego principal, nos faltaria las imagenes, sonido y la pantallas de inicio
+//se mueve con las flechas del teclado
+
+
+let juego;
 
 function setup() {
   createCanvas(640, 480); // Crea un lienzo de 640x480 píxeles
